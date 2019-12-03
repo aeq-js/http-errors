@@ -1,10 +1,22 @@
 {
   "name": "@aeq/http-errors",
   "version": "0.0.1",
-  "description": "Typed Http exceptions in TS",
+  "description": "Http Exceptions",
   "main": "index.ts",
-  "repository": "https://github.com/aeq-js/http-errors.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aeq-js/http-errors.git"
+  },
   "author": "D3-FC <d3-fc@mail.ru>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/aeq-js/http-errors/issues"
+  },
+  "homepage": "https://github.com/aeq-js/http-errors#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
