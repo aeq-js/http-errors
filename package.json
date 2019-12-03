@@ -1,0 +1,10 @@
+{
+  "name": "@aeq/http-errors",
+  "version": "0.0.1",
+  "description": "Typed Http exceptions in TS",
+  "main": "index.ts",
+  "repository": "https://github.com/aeq-js/http-errors.git",
+  "author": "D3-FC <d3-fc@mail.ru>",
+  "license": "MIT",
+  "private": false
+}
